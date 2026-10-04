@@ -1,0 +1,368 @@
+Slide Width: 18288000, Height: 10287000
+
+=================== SLIDE 1 ===================
+--- Shape 0: Group 2 | Type: GROUP (6) | Pos: (8485222, 1277283, 6953193, 7732366) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 1: Group 4 | Type: GROUP (6) | Pos: (13398789, 4532433, 4805267, 5138309) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 2: Group 6 | Type: GROUP (6) | Pos: (1014070, 2153583, 114300, 114300) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 3: Group 8 | Type: GROUP (6) | Pos: (1014070, 3020358, 114300, 114300) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 4: Group 10 | Type: GROUP (6) | Pos: (1014070, 6439833, 114300, 114300) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 5: Group 12 | Type: GROUP (6) | Pos: (1014070, 7354233, 114300, 114300) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 6: Group 14 | Type: GROUP (6) | Pos: (1014070, 8268633, 114300, 114300) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 7: Group 16 | Type: GROUP (6) | Pos: (1042645, 5515908, 95250, 95250) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 8: Group 18 | Type: GROUP (6) | Pos: (14670129, 2248, 3373745, 1593504) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 9: Group 20 | Type: GROUP (6) | Pos: (52730, 9009736, 1320060, 1229439) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 10: Group 22 | Type: GROUP (6) | Pos: (8485165, 1277283, 6957908, 7732452) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 11: TextBox 24 | Type: TEXT_BOX (17) | Pos: (2432618, 524027, 12347038, 1033462) ---
+   [P0]: SMART INDIA HACKATHON 2026
+--- Shape 12: TextBox 25 | Type: TEXT_BOX (17) | Pos: (1299820, 5945762, 5481980, 2640063) ---
+   [P0]: PS Category- Software
+   [P1]: Team ID- 162623
+   [P2]: Team Name- COGNOVAX
+--- Shape 13: TextBox 26 | Type: TEXT_BOX (17) | Pos: (1299820, 1726187, 13627551, 4077443) ---
+   [P0]: Problem Statement ID – 26003
+   [P1]: Problem Statement Title – AI-Based Cognitive Gaming and Memory Assistance Platform For Elderly Dementia Patients in North Eastern Region [NER]
+   [P2]: Theme- MedTech / BioTech / HealthTech
+
+=================== SLIDE 2 ===================
+--- Shape 0: Group 6 | Type: GROUP (6) | Pos: (0, 9890808, 18288000, 396192) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 1: TextBox 25 | Type: TEXT_BOX (17) | Pos: (7711897, 9873729, 2375097, 326736) ---
+   [P0]: @SIH Idea submission
+--- Shape 2: Group 4 | Type: GROUP (6) | Pos: (14670129, 2248, 3373745, 1593504) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 3: Freeform 6 | Type: FREEFORM (5) | Pos: (108709, 177089, 1841487, 1243813) ---
+--- Shape 4: Group 7 | Type: GROUP (6) | Pos: (355478, 1959695, 5663184, 3614928) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 5: Freeform 9 | Type: FREEFORM (5) | Pos: (1026419, 2345267, 850392, 850392) ---
+--- Shape 6: Group 10 | Type: GROUP (6) | Pos: (1191011, 2523575, 521208, 521208) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 7: Group 12 | Type: GROUP (6) | Pos: (1207394, 3409400, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 8: Group 14 | Type: GROUP (6) | Pos: (1207394, 4171400, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 9: Group 16 | Type: GROUP (6) | Pos: (1207394, 4552400, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 10: Group 18 | Type: GROUP (6) | Pos: (1207394, 4933400, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 11: Group 20 | Type: GROUP (6) | Pos: (6164428, 1960975, 5666232, 3614928) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 12: Freeform 22 | Type: FREEFORM (5) | Pos: (6956908, 2277586, 850392, 850392) ---
+--- Shape 13: Group 23 | Type: GROUP (6) | Pos: (7117690, 2442178, 521208, 521208) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 14: Group 25 | Type: GROUP (6) | Pos: (7083019, 3405727, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 15: Group 27 | Type: GROUP (6) | Pos: (7083019, 4262977, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 16: Group 29 | Type: GROUP (6) | Pos: (7083019, 4691602, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 17: Group 31 | Type: GROUP (6) | Pos: (11966689, 2015241, 5666232, 3614928) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 18: Freeform 33 | Type: FREEFORM (5) | Pos: (12704305, 2331852, 850392, 850392) ---
+--- Shape 19: Group 34 | Type: GROUP (6) | Pos: (12868897, 2533744, 521208, 521208) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 20: Group 36 | Type: GROUP (6) | Pos: (12879746, 3472595, 64637, 64637) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 21: Group 38 | Type: GROUP (6) | Pos: (12879746, 4229765, 64637, 64637) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 22: Group 40 | Type: GROUP (6) | Pos: (12879746, 4986936, 64637, 64637) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 23: Group 42 | Type: GROUP (6) | Pos: (359070, 5948111, 5663184, 3614928) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 24: Freeform 44 | Type: FREEFORM (5) | Pos: (996102, 6338255, 850392, 850392) ---
+--- Shape 25: Group 45 | Type: GROUP (6) | Pos: (1160694, 6502847, 521208, 521208) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 26: Group 47 | Type: GROUP (6) | Pos: (1177077, 7442583, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 27: Group 49 | Type: GROUP (6) | Pos: (1177077, 7871209, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 28: Group 51 | Type: GROUP (6) | Pos: (1177077, 8299833, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 29: Group 53 | Type: GROUP (6) | Pos: (6156571, 5948111, 5663184, 3614928) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 30: Freeform 55 | Type: FREEFORM (5) | Pos: (6793603, 6338255, 850392, 850392) ---
+--- Shape 31: Group 56 | Type: GROUP (6) | Pos: (6958195, 6502847, 521208, 521208) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 32: Group 58 | Type: GROUP (6) | Pos: (6993628, 7448079, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 33: Group 60 | Type: GROUP (6) | Pos: (6993628, 7886229, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 34: Group 62 | Type: GROUP (6) | Pos: (6993628, 8324379, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 35: Group 64 | Type: GROUP (6) | Pos: (12011219, 5948111, 5663184, 3614928) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 36: Freeform 66 | Type: FREEFORM (5) | Pos: (12648251, 6338255, 850392, 850392) ---
+--- Shape 37: Group 67 | Type: GROUP (6) | Pos: (12914675, 6502847, 521208, 521208) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 38: Group 69 | Type: GROUP (6) | Pos: (12829226, 7333075, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 39: Group 71 | Type: GROUP (6) | Pos: (12829226, 7752175, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 40: Group 73 | Type: GROUP (6) | Pos: (12829226, 8171275, 66675, 66675) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 41: Group 77 | Type: GROUP (6) | Pos: (172202, 240592, 1712986, 1116816) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 42: Group 79 | Type: GROUP (6) | Pos: (612054, 5954207, 5404104, 3401568) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 43: Group 81 | Type: GROUP (6) | Pos: (545083, 1902183, 5531101, 3528565) ---
+   [GROUP]: has 2 sub-shapes
+--- Shape 44: Group 84 | Type: GROUP (6) | Pos: (6409555, 5954207, 5404104, 3401568) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 45: Group 86 | Type: GROUP (6) | Pos: (6418612, 1966966, 5404104, 3401568) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 46: Group 90 | Type: GROUP (6) | Pos: (12161106, 5958226, 5531101, 3528565) ---
+   [GROUP]: has 2 sub-shapes
+--- Shape 47: Group 93 | Type: GROUP (6) | Pos: (12158456, 1957729, 5531101, 3528565) ---
+   [GROUP]: has 2 sub-shapes
+--- Shape 48: TextBox 97 | Type: TEXT_BOX (17) | Pos: (16833618, 9927784, 129683, 326736) ---
+   [P0]: 2
+--- Shape 49: TextBox 98 | Type: TEXT_BOX (17) | Pos: (2304945, 547002, 12515155, 531457) ---
+   [P0]: AI-Powered Personalized Cognitive & Memory Assistance Platform
+--- Shape 50: TextBox 99 | Type: TEXT_BOX (17) | Pos: (344706, 628839, 1374004, 322794) ---
+   [P0]: COGNOVAX
+--- Shape 51: TextBox 100 | Type: TEXT_BOX (17) | Pos: (1972823, 2578725, 3036922, 403384) ---
+   [P0]: Cognitive Gaming Module
+--- Shape 52: TextBox 101 | Type: TEXT_BOX (17) | Pos: (2052234, 6503133, 2892752, 403384) ---
+   [P0]: Daily Routine Reminders
+--- Shape 53: TextBox 102 | Type: TEXT_BOX (17) | Pos: (7849735, 6503133, 2493369, 403384) ---
+   [P0]: Caregiver Monitoring
+--- Shape 54: TextBox 103 | Type: TEXT_BOX (17) | Pos: (7848448, 2552563, 2769070, 403384) ---
+   [P0]: Dual-Login Architecture
+--- Shape 55: TextBox 104 | Type: TEXT_BOX (17) | Pos: (13704383, 6503133, 2157003, 403384) ---
+   [P0]: Elderly-Friendly UI
+--- Shape 56: TextBox 105 | Type: TEXT_BOX (17) | Pos: (13634545, 2561462, 3443173, 403384) ---
+   [P0]: Multilingual & Voice-Assisted
+--- Shape 57: TextBox 106 | Type: TEXT_BOX (17) | Pos: (1406381, 3215566, 3711435, 1925955) ---
+   [P0]: Interactive memory & attention games
+   [P1]: Supports cognitive engagement Helps slow memory decline Intresting Games
+--- Shape 58: TextBox 107 | Type: TEXT_BOX (17) | Pos: (1376064, 7220251, 3914270, 1716291) ---
+   [P0]: Medicine, meal & hydration alerts Friendly walk & activity nudges Personalized reminders based on daily routines and habits
+--- Shape 59: TextBox 108 | Type: TEXT_BOX (17) | Pos: (7282006, 3183394, 4291060, 1716300) ---
+   [P0]: Separate patient & caregiver interfaces
+   [P1]: Role-specific experience for each user Easily Accessible
+--- Shape 60: TextBox 109 | Type: TEXT_BOX (17) | Pos: (13028213, 7110742, 4286012, 1687716) ---
+   [P0]: Adjustable icon sizes
+   [P1]: low-clutter interface
+   [P2]: Easy to use Web-Application for better experience
+--- Shape 61: TextBox 110 | Type: TEXT_BOX (17) | Pos: (13072646, 3291362, 3422837, 1897294) ---
+   [P0]: Regional North-East languages supported
+   [P1]: Voice assistant removes literacy barriers
+   [P2]: Increase Feasibility
+--- Shape 62: TextBox 111 | Type: TEXT_BOX (17) | Pos: (7182642, 7211355, 4371565, 1314059) ---
+   [P0]: View patient activity remotely Manage multiple patients, one login Track Progress time by time
+--- Shape 63: Group 9 | Type: GROUP (6) | Pos: (16967940, 8674751, 1320060, 1229439) ---
+   [GROUP]: has 1 sub-shapes
+
+=================== SLIDE 3 ===================
+--- Shape 0: Group 2 | Type: GROUP (6) | Pos: (14670129, 2248, 3373745, 1593504) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 1: Group 6 | Type: GROUP (6) | Pos: (0, 9890808, 18288000, 396192) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 2: Group 9 | Type: GROUP (6) | Pos: (1670771, 1357408, 5619750, 8010525) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 3: Group 11 | Type: GROUP (6) | Pos: (8406070, 1777965, 5943600, 1743075) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 4: Group 13 | Type: GROUP (6) | Pos: (9804359, 3783501, 5943600, 1743075) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 5: Group 15 | Type: GROUP (6) | Pos: (10693879, 5655774, 5943600, 1743075) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 6: Group 17 | Type: GROUP (6) | Pos: (11376203, 7410917, 5943600, 1247775) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 7: TextBox 23 | Type: TEXT_BOX (17) | Pos: (4819679, 289141, 8375066, 940441) ---
+   [P0]: TECHNICAL APPROACH
+--- Shape 8: TextBox 25 | Type: TEXT_BOX (17) | Pos: (7711897, 9873729, 2375097, 326736) ---
+   [P0]: @SIH Idea submission
+--- Shape 9: TextBox 26 | Type: TEXT_BOX (17) | Pos: (16833618, 9927784, 129683, 326736) ---
+   [P0]: 3
+--- Shape 10: TextBox 27 | Type: TEXT_BOX (17) | Pos: (10003250, 1938023, 2602811, 791756) ---
+   [P0]: FRONTEND
+   [P1]: React 19.2 + Next.js 16 (App Router, Turbopack)
+--- Shape 11: TextBox 28 | Type: TEXT_BOX (17) | Pos: (11366602, 3947884, 2446239, 791756) ---
+   [P0]: BACKEND
+   [P1]: Next.js Route Handlers TypeScript + Node.js
+--- Shape 12: TextBox 29 | Type: TEXT_BOX (17) | Pos: (12216689, 5953420, 2526649, 791756) ---
+   [P0]: UI / STYLING
+   [P1]: Tailwind CSS v4
+   [P2]: Framer Motion + Lucide
+--- Shape 13: TextBox 30 | Type: TEXT_BOX (17) | Pos: (12914728, 7673302, 2620156, 791756) ---
+   [P0]: AUTH & SECURITY bcrypt hashing
+   [P1]: Secure httpOnly session
+--- Shape 14: Freeform 6 | Type: FREEFORM (5) | Pos: (108709, 177089, 1841487, 1243813) ---
+--- Shape 15: Group 77 | Type: GROUP (6) | Pos: (172202, 240592, 1712986, 1116816) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 16: TextBox 99 | Type: TEXT_BOX (17) | Pos: (344706, 628839, 1374004, 322794) ---
+   [P0]: COGNOVAX
+--- Shape 17: Group 9 | Type: GROUP (6) | Pos: (16967940, 8674751, 1320060, 1229439) ---
+   [GROUP]: has 1 sub-shapes
+
+=================== SLIDE 4 ===================
+--- Shape 0: Group 6 | Type: GROUP (6) | Pos: (0, 9890808, 18288000, 396192) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 1: TextBox 25 | Type: TEXT_BOX (17) | Pos: (7711897, 9873729, 2375097, 326736) ---
+   [P0]: @SIH Idea submission
+--- Shape 2: Group 2 | Type: GROUP (6) | Pos: (14670129, 2248, 3373745, 1593504) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 3: Freeform 5 | Type: FREEFORM (5) | Pos: (914857, 1783080, 8023860, 548640) ---
+--- Shape 4: Freeform 6 | Type: FREEFORM (5) | Pos: (914857, 5266944, 8023860, 548640) ---
+--- Shape 5: Group 7 | Type: GROUP (6) | Pos: (1152982, 2643168, 76200, 76200) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 6: Group 9 | Type: GROUP (6) | Pos: (1152982, 3176568, 76200, 76200) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 7: Group 11 | Type: GROUP (6) | Pos: (1152982, 3976668, 76200, 76200) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 8: Group 13 | Type: GROUP (6) | Pos: (1152982, 4776768, 76200, 76200) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 9: Group 15 | Type: GROUP (6) | Pos: (9632480, 6143996, 85725, 85725) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 10: Group 17 | Type: GROUP (6) | Pos: (9632480, 6667871, 85725, 85725) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 11: Group 19 | Type: GROUP (6) | Pos: (9632480, 7191746, 85725, 85725) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 12: Group 21 | Type: GROUP (6) | Pos: (9632480, 8239496, 85725, 85725) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 13: Freeform 25 | Type: FREEFORM (5) | Pos: (9350197, 1783080, 8023860, 548640) ---
+--- Shape 14: Freeform 26 | Type: FREEFORM (5) | Pos: (9350197, 5266944, 8023860, 548640) ---
+--- Shape 15: Group 27 | Type: GROUP (6) | Pos: (9970856, 2830306, 95250, 95250) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 16: Group 29 | Type: GROUP (6) | Pos: (9970856, 3382756, 95250, 95250) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 17: Group 31 | Type: GROUP (6) | Pos: (9970856, 3935206, 95250, 95250) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 18: Group 33 | Type: GROUP (6) | Pos: (9970856, 4487656, 95250, 95250) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 19: TextBox 41 | Type: TEXT_BOX (17) | Pos: (4189657, 322478, 10106777, 940441) ---
+   [P0]: FEASIBILITY AND VIABILITY
+--- Shape 20: TextBox 42 | Type: TEXT_BOX (17) | Pos: (4197563, 5371090, 1487376, 349206) ---
+   [P0]: MITIGATION
+--- Shape 21: TextBox 43 | Type: TEXT_BOX (17) | Pos: (4169874, 1887226, 1543736, 349206) ---
+   [P0]: FEASIBILITY
+--- Shape 22: TextBox 44 | Type: TEXT_BOX (17) | Pos: (12708503, 1887226, 1333195, 349206) ---
+   [P0]: USABILITY
+--- Shape 23: TextBox 45 | Type: TEXT_BOX (17) | Pos: (12543453, 5371090, 1669923, 349206) ---
+   [P0]: SCALABILITY
+--- Shape 24: TextBox 46 | Type: TEXT_BOX (17) | Pos: (10227135, 2565130, 6787629, 2184073) ---
+   [P0]: Simple interface, large clear controls Accessibility: text size & high-contrast modes Voice interaction for low-friction use
+   [P1]: Regional-language support for the NER
+--- Shape 25: TextBox 47 | Type: TEXT_BOX (17) | Pos: (914857, 5933970, 2077374, 370313) ---
+   [P0]: Elderly usability
+--- Shape 26: TextBox 48 | Type: TEXT_BOX (17) | Pos: (2361057, 6261649, 75257, 370313) ---
+--- Shape 27: TextBox 49 | Type: TEXT_BOX (17) | Pos: (914857, 6616817, 3115732, 370313) ---
+   [P0]: Varying cognitive ability
+--- Shape 28: TextBox 50 | Type: TEXT_BOX (17) | Pos: (2509009, 6944497, 75257, 370313) ---
+--- Shape 29: TextBox 51 | Type: TEXT_BOX (17) | Pos: (914857, 7299674, 3190856, 370313) ---
+   [P0]: Language barriers (NER)
+--- Shape 30: TextBox 52 | Type: TEXT_BOX (17) | Pos: (3705034, 7627353, 75257, 370313) ---
+--- Shape 31: TextBox 53 | Type: TEXT_BOX (17) | Pos: (914857, 7982521, 2348903, 370313) ---
+   [P0]: Privacy & security
+--- Shape 32: TextBox 54 | Type: TEXT_BOX (17) | Pos: (2316975, 8310201, 75257, 370313) ---
+--- Shape 33: TextBox 55 | Type: TEXT_BOX (17) | Pos: (914857, 8665369, 3672535, 370313) ---
+   [P0]: Over-reliance on automation
+--- Shape 34: TextBox 56 | Type: TEXT_BOX (17) | Pos: (4323921, 8993048, 75257, 370313) ---
+--- Shape 35: TextBox 57 | Type: TEXT_BOX (17) | Pos: (914857, 6261649, 3929167, 370313) ---
+   [P0]: → Simple,accessibleinterface
+--- Shape 36: TextBox 58 | Type: TEXT_BOX (17) | Pos: (914857, 6944497, 3748640, 370313) ---
+   [P0]: → Adaptivedifficultyperuser
+--- Shape 37: TextBox 59 | Type: TEXT_BOX (17) | Pos: (914857, 7627353, 4532271, 370313) ---
+   [P0]: → Regional-languagevoicesupport
+--- Shape 38: TextBox 60 | Type: TEXT_BOX (17) | Pos: (914857, 8310201, 4359145, 370313) ---
+   [P0]: → Secureauth+sessionhandling
+--- Shape 39: TextBox 61 | Type: TEXT_BOX (17) | Pos: (914857, 8993048, 7030488, 370313) ---
+   [P0]: → Caregiver given visibilityin app ,so a human is always
+--- Shape 40: TextBox 62 | Type: TEXT_BOX (17) | Pos: (914857, 9334481, 5134156, 370313) ---
+   [P0]: checking ,not just AI controlling everything
+--- Shape 41: TextBox 63 | Type: TEXT_BOX (17) | Pos: (9864652, 5878373, 7672892, 3111227) ---
+   [P0]: Software only approach makes it advance.
+   [P1]: Can add more regional slide over time.
+   [P2]: New Feature/activities can be added without rebuilding the system.
+   [P3]: Familiy member/ caregiver help onboard elderly user,making rollut easier
+--- Shape 42: TextBox 65 | Type: TEXT_BOX (17) | Pos: (1368190, 2566406, 7421623, 2686241) ---
+   [P0]: Fully web-based, runs on any browser or basic smartphone.
+   [P1]: Prototype already working core user flows built and tested, not just mockups.
+   [P2]: Modular by design new games or features plug in without touching the core system.
+   [P3]: No need to build new system to collect data,we’re gathering it as people use app.
+--- Shape 43: TextBox 67 | Type: TEXT_BOX (17) | Pos: (16833618, 9911048, 129683, 293029) ---
+   [P0]: 4
+--- Shape 44: Freeform 6 | Type: FREEFORM (5) | Pos: (108709, 177089, 1841487, 1243813) ---
+--- Shape 45: Group 77 | Type: GROUP (6) | Pos: (172202, 240592, 1712986, 1116816) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 46: TextBox 99 | Type: TEXT_BOX (17) | Pos: (344706, 628839, 1374004, 322794) ---
+   [P0]: COGNOVAX
+--- Shape 47: Group 9 | Type: GROUP (6) | Pos: (16967940, 8674751, 1320060, 1229439) ---
+   [GROUP]: has 1 sub-shapes
+
+=================== SLIDE 5 ===================
+--- Shape 0: Group 2 | Type: GROUP (6) | Pos: (0, 0, 18288000, 10287000) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 1: Group 6 | Type: GROUP (6) | Pos: (0, 9890808, 18288000, 396192) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 2: TextBox 25 | Type: TEXT_BOX (17) | Pos: (7711897, 9873729, 2375097, 326736) ---
+   [P0]: @SIH Idea submission
+--- Shape 3: Group 4 | Type: GROUP (6) | Pos: (4588326, 4025894, 2584399, 2406987) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 4: TextBox 17 | Type: TEXT_BOX (17) | Pos: (16833618, 9911048, 129683, 293029) ---
+   [P0]: 5
+--- Shape 5: Freeform 6 | Type: FREEFORM (5) | Pos: (108709, 177089, 1841487, 1243813) ---
+--- Shape 6: Group 77 | Type: GROUP (6) | Pos: (172202, 240592, 1712986, 1116816) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 7: TextBox 99 | Type: TEXT_BOX (17) | Pos: (344706, 628839, 1374004, 322794) ---
+   [P0]: COGNOVAX
+--- Shape 8: Rectangle 22 | Type: AUTO_SHAPE (1) | Pos: (14478000, 49217, 3637798, 1589084) ---
+--- Shape 9: Group 2 | Type: GROUP (6) | Pos: (14630400, 44796, 3373745, 1593504) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 10: Group 9 | Type: GROUP (6) | Pos: (16967940, 8674751, 1320060, 1229439) ---
+   [GROUP]: has 1 sub-shapes
+
+=================== SLIDE 6 ===================
+--- Shape 0: Group 6 | Type: GROUP (6) | Pos: (0, 9890808, 18288000, 396192) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 1: TextBox 25 | Type: TEXT_BOX (17) | Pos: (7711897, 9873729, 2375097, 326736) ---
+   [P0]: @SIH Idea submission
+--- Shape 2: Group 2 | Type: GROUP (6) | Pos: (14670129, 2248, 3373745, 1593504) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 3: TextBox 22 | Type: TEXT_BOX (17) | Pos: (3932930, 322478, 10630386, 940441) ---
+   [P0]: RESEARCH AND REFERENCES
+--- Shape 4: TextBox 23 | Type: TEXT_BOX (17) | Pos: (914857, 1820285, 3454622, 347491) ---
+   [P0]: 1. World Health Organization.
+--- Shape 5: TextBox 24 | Type: TEXT_BOX (17) | Pos: (914400, 6194237, 14722773, 638252) ---
+   [P0]: 5. JMIR Research Protocols (2022). Support: online training & support programme for dementia caregivers in India — RCT protocol.
+--- Shape 6: TextBox 25 | Type: TEXT_BOX (17) | Pos: (914400, 3971848, 14497823, 638252) ---
+   [P0]: 3. BMC Health Services Research (2024). Caregivers' experiences, challenges & needs in dementia care in India — a scoping review.
+--- Shape 7: TextBox 27 | Type: TEXT_BOX (17) | Pos: (914400, 5287048, 16219015, 256737) ---
+   [P0]: 4. PMC / ICMR-Forte, Indo-Sweden collaboration (2025). mHealth intervention by community workers to support family dementia caregivers —
+--- Shape 8: TextBox 28 | Type: TEXT_BOX (17) | Pos: (4301890, 1807959, 3847062, 347491) ---
+   [P0]: Dementia — Key Facts (fact sheet).
+--- Shape 9: TextBox 32 | Type: TEXT_BOX (17) | Pos: (914857, 2765966, 14836464, 570926) ---
+   [P0]: 2. JMIR Serious Games (2022). Effectiveness & safety of serious/cognitive-training games for elderly people with cognitive impairment — 	systematic review & meta-analysis.
+--- Shape 10: TextBox 34 | Type: TEXT_BOX (17) | Pos: (1216528, 6796603, 5333924, 304276) ---
+   [P0]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5941472/
+--- Shape 11: TextBox 35 | Type: TEXT_BOX (17) | Pos: (1223154, 2162887, 5571563, 304276) ---
+   [P0]: https://www.who.int/news-room/fact-sheets/detail/dementia
+--- Shape 12: TextBox 36 | Type: TEXT_BOX (17) | Pos: (1216528, 4396440, 5750547, 304276) ---
+   [P0]: https://link.springer.com/article/10.1186/s12913-024-12146-x
+--- Shape 13: TextBox 40 | Type: TEXT_BOX (17) | Pos: (16833618, 9927784, 129683, 326736) ---
+   [P0]: 6
+--- Shape 14: Freeform 6 | Type: FREEFORM (5) | Pos: (108709, 177089, 1841487, 1243813) ---
+--- Shape 15: Group 77 | Type: GROUP (6) | Pos: (172202, 240592, 1712986, 1116816) ---
+   [GROUP]: has 1 sub-shapes
+--- Shape 16: TextBox 99 | Type: TEXT_BOX (17) | Pos: (344706, 628839, 1374004, 322794) ---
+   [P0]: COGNOVAX
+--- Shape 17: TextBox 24 | Type: TEXT_BOX (17) | Pos: (914400, 7483471, 5410200, 304827) ---
+   [P0]: 6. Prototype YouTube Video Link.
+--- Shape 18: TextBox 47 | Type: TEXT_BOX (17) | Pos: (1216528, 5558953, 8682846, 369332) ---
+   [P0]: https://pmc.ncbi.nlm.nih.gov/articles/PMC11749876/
+--- Shape 19: TextBox 48 | Type: TEXT_BOX (17) | Pos: (1216528, 3407354, 5419804, 348813) ---
+   [P0]: https://games.jmir.org/2022/1/e34592
+--- Shape 20: TextBox 34 | Type: TEXT_BOX (17) | Pos: (1223154, 7896695, 5333924, 269369) ---
+   [P0]: https://www.youtube.com/watch?v=
+--- Shape 21: Group 9 | Type: GROUP (6) | Pos: (16967940, 8674751, 1320060, 1229439) ---
+   [GROUP]: has 1 sub-shapes
