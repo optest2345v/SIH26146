@@ -7,6 +7,15 @@ import argparse
 import sys
 from pathlib import Path
 
+# Ensure standard output and error stream use UTF-8 with replacement for console compatibility
+try:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    if hasattr(sys.stderr, "reconfigure"):
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 
 def main():
     parser = argparse.ArgumentParser(
@@ -48,13 +57,6 @@ def main():
     eval_cmd.add_argument("--ground-truth", default="data/benchmark_10k/ground_truth.json", help="Hidden ground truth path")
     eval_cmd.add_argument("--manifest", default="data/benchmark_10k/benchmark_manifest.json", help="Benchmark manifest path")
     eval_cmd.add_argument("--report", default="data/benchmark_10k/benchmark_evaluation_report.md", help="Output report path")
-
-    # Command: console / tui (Interactive Headless Terminal Console for SSH / No VNC)
-    console_parser = subparsers.add_parser("console", help="Launch interactive forensic terminal console (TUI / Headless / SSH)")
-    console_parser.add_argument("--data", default="data/synthetic/transactions_sample.csv", help="Input file path")
-
-    tui_parser = subparsers.add_parser("tui", help="Launch interactive forensic terminal console (TUI)")
-    tui_parser.add_argument("--data", default="data/synthetic/transactions_sample.csv", help="Input file path")
 
     args = parser.parse_args()
 
@@ -99,11 +101,6 @@ def main():
         import uvicorn
         print(f"Starting SIH26146 Offline Intelligence Service on http://{args.host}:{args.port}")
         uvicorn.run("src.api.server:app", host=args.host, port=args.port, reload=False)
-
-    elif args.command in ("console", "tui"):
-        from src.cli.terminal_ui import run_terminal_console
-        data_path = getattr(args, "data", "data/synthetic/transactions_sample.csv")
-        run_terminal_console(data_path=data_path)
 
     else:
         # Default or 'run'
