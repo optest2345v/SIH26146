@@ -43,6 +43,7 @@ case "$choice" in
     ;;
   7)
     echo "Exiting."
+    clear
     exit 0
     ;;
   *)
